@@ -1,7 +1,11 @@
 cff-version: 1.2.0
 message: "If you use these images or the demo provided in this repository, please cite the following article."
-title: "Aedes aegypti mosquito egg-counting using adaptive thresholding and thinning"
-type: article
+title: "Aedes aegypti mosquito egg-counting demo and dataset"
+version: 1.0.0
+date-released: 2026-01-01
+doi: 10.1007/s11760-026-05137-4
+url: "https://github.com/fcojavier/EggCountATT"
+
 authors:
   - family-names: Hernandez-Lopez
     given-names: Francisco J
@@ -15,10 +19,26 @@ authors:
     given-names: Graciela
   - family-names: Danis-Lozano
     given-names: Rogelio
-journal: "Signal, Image and Video Processing"
-year: 2026
-volume: 20
-issue: 3
-start: 101
-publisher: Springer
-doi: 10.1007/s11760-026-05137-4
+
+preferred-citation:
+  type: article
+  title: "Aedes aegypti mosquito egg-counting using adaptive thresholding and thinning"
+  journal: "Signal, Image and Video Processing"
+  year: 2026
+  volume: 20
+  issue: 3
+  start: 101
+  doi: "10.1007/s11760-026-05137-4"
+  authors:
+    - family-names: Hernandez-Lopez
+      given-names: Francisco J
+    - family-names: Valdez-Delgado
+      given-names: Kenia Mayela
+    - family-names: Muñiz-Sánchez
+      given-names: Victor
+    - family-names: Villarreal-Treviño
+      given-names: Cuauhtémoc
+    - family-names: González-Farías
+      given-names: Graciela
+    - family-names: Danis-Lozano
+      given-names: Rogelio
