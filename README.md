@@ -11,3 +11,22 @@ At the moment, the EggCountATT app can only be installed on the Windows 10 or Wi
 3.	In the parameters panel, it is possible to change the parameter values of the app. 
 4.	Click over the “Egg Counting in One Image” button to process only one image. First, a dialog window is open to find the input image. Next, the image is processed. EggCountATT returns the output image in the “Output” panel and the egg counting in the table below the button. Additionally, a folder with the name “results” is created to save the output image with the name “EggCountATT_name_of_image.ext” and the egg counting in a text file with the name “EggCountATT_name_of_image.txt.”
 5.	Click over the “Egg Counting in a Folder of Images” button to process the images inside a folder. First, a dialog window is open to find the folder. Next, the images are processed one by one. For each image, EggCountATT returns the output image in the “Output” panel and the egg counting in the table below the button. Additionally, a folder with the name “results” is created to save each output image with the name “EggCountATT_name_of_image.ext” and the egg counting of all images in a text file with the name “EggCountATT.txt.”
+
+# Citation
+If you use these images or the demo provided in this repository in your research, please cite the following publication:
+
+Hernandez-Lopez, F. J., Valdez-Delgado, K. M., Muñiz-Sánchez, V., Villarreal-Treviño, C., González-Farías, G., & Danis-Lozano, R. (2026).
+Aedes aegypti mosquito egg-counting using adaptive thresholding and thinning.
+Signal, Image and Video Processing, 20(3), 101.
+
+# BibTeX
+@article{hernandez2026aedes,
+  title={Aedes aegypti mosquito egg-counting using adaptive thresholding and thinning},
+  author={Hernandez-Lopez, Francisco J and Valdez-Delgado, Kenia Mayela and Mu{\~n}iz-S{\'a}nchez, Victor and Villarreal-Trevi{\~n}o, Cuauht{\'e}moc and Gonz{\'a}lez-Far{\'\i}as, Graciela and Danis-Lozano, Rogelio},
+  journal={Signal, Image and Video Processing},
+  volume={20},
+  number={3},
+  pages={101},
+  year={2026},
+  publisher={Springer}
+}
